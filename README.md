@@ -55,7 +55,7 @@
 - ps ax 사용 
 <img width="401" alt="image" src="https://github.com/aswin0421/task_20233133/assets/133829776/197a9e89-c98d-44c0-85f7-25041a79291b">
 -시스템에 동작중인 모든 프로세스를 보고싶은 때 사용
-(PID,TTY,STAT,TIME,COMMAND 출력)
+(PID,TTY,STAT,TIME,COMMAND 출력
 
 - ps aux 사용 
 <img width="548" alt="image" src="https://github.com/aswin0421/task_20233133/assets/133829776/57f957b4-4ec3-44a6-9cba-2c76d932dc26">
