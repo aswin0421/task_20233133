@@ -61,6 +61,7 @@
 <img width="548" alt="image" src="https://github.com/aswin0421/task_20233133/assets/133829776/57f957b4-4ec3-44a6-9cba-2c76d932dc26">
 -시스템에 동작중인 모든 프로세스를 소유자 정보와 함께 다양한 정보를 같이 출력(특정 프로세스는 ps aux|grep apache)
 
+
 4. ps 명령어 사용시 나타낼수 있는 항목
 <img width="498" alt="image" src="https://github.com/aswin0421/task_20233133/assets/133829776/f2d274e0-fcd4-4922-b7ff-f0235cf2fc75">
 ---
