@@ -14,7 +14,8 @@
 - a: 메모리 사용량에 따라 정렬한다
 - b: Batch 모드로 작동한다
 - 1: CPU Core별로 사용량을 보여준다
-3. top -b -n 1 예시 사진<img width="601" alt="리눅스 top" src="https://github.com/aswin0421/task_20233133/assets/133829776/2a222562-7997-4939-b858-d0139c17e098">
+3. top -b -n 1 예시 사진
+<img width="601" alt="리눅스 top" src="https://github.com/aswin0421/task_20233133/assets/133829776/2a222562-7997-4939-b858-d0139c17e098">
 
 4. VIRT,RES,SHR
 -현재 프로세스가 사용하고 있는 메모리
