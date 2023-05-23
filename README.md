@@ -51,13 +51,16 @@
 - ps 단독 사용 
 <img width="220" alt="image" src="https://github.com/aswin0421/task_20233133/assets/133829776/9f900b0f-1c8f-45fe-9592-5b04c164e4a1">
 -기본적으로는 프로세스 번호(PID), 프로세스가 연결된 터미널(TTY),TIME,CMD이 출력
+
 - ps ax 사용 
 <img width="401" alt="image" src="https://github.com/aswin0421/task_20233133/assets/133829776/197a9e89-c98d-44c0-85f7-25041a79291b">
 -시스템에 동작중인 모든 프로세스를 보고싶은 때 사용
 (PID,TTY,STAT,TIME,COMMAND 출력)
+
 - ps aux 사용 
 <img width="548" alt="image" src="https://github.com/aswin0421/task_20233133/assets/133829776/57f957b4-4ec3-44a6-9cba-2c76d932dc26">
 -시스템에 동작중인 모든 프로세스를 소유자 정보와 함께 다양한 정보를 같이 출력(특정 프로세스는 ps aux|grep apache)
+
 4. ps 명령어 사용시 나타낼수 있는 항목
 <img width="498" alt="image" src="https://github.com/aswin0421/task_20233133/assets/133829776/f2d274e0-fcd4-4922-b7ff-f0235cf2fc75">
 ---
