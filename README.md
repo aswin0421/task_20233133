@@ -98,6 +98,8 @@
  - -l: 시그널로 사용할 수 있는 시그널들을 보여줌
  
  3. kill 명령어의 시그널 종류
+
+
  | 신호이름 | SIGNUP | SIGHT | SIGKILL | SIGSEGV | SIGTERM | SIGCONT | SIGSTOP | SIGTSTP |
  |-------|--------|---------|---------|---------|---------|----------|--------|
  | 신호 | HUP | INT | KILL | SEGV | TERM | CONT | STOP |TSTP|
