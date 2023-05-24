@@ -101,7 +101,7 @@
 
 
  | 신호이름 | SIGNUP | SIGHT | SIGKILL | SIGSEGV | SIGTERM | SIGCONT | SIGSTOP | SIGTSTP |
- |-------|--------|---------|---------|---------|---------|----------|--------|
+ | ------- | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
  | 신호 | HUP | INT | KILL | SEGV | TERM | CONT | STOP |TSTP|
  
 
