@@ -100,9 +100,9 @@
  3. kill 명령어의 시그널 종류
 
 
- | SIGNAL name | SIGNUP | SIGHT | SIGKILL | SIGSEGV | SIGTERM | SIGCONT | SIGSTOP | SIGTSTP |
- | ------- | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
- | SIGNAL | HUP | INT | KILL | SEGV | TERM | CONT | STOP | TSTP |
+| SIGNAL name | SIGNUP | SIGHT | SIGKILL | SIGSEGV | SIGTERM | SIGCONT | SIGSTOP | SIGTSTP |
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+| SIGNAL | HUP | INT | KILL | SEGV | TERM | CONT | STOP | TSTP |
  
 
 
