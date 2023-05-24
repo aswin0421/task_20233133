@@ -85,6 +85,23 @@
 3. Linux jobs 옵션
  <img width="573" alt="image" src="https://github.com/aswin0421/task_20233133/assets/133829776/67a90250-372f-4738-bd7c-a94182b13ab2">
  
+ ---
+ 
+ ### Linux kill 명령어
+ 1. Linux kill이란?
+ - kill 명령어를 통해서 프로세스에 시그널을 보내서 제어하는 명령어
+ - kill인 이유는 아무런 시그널이 없다면 종료하는 명렁어이기 때문이다
+ - kill [옵션] [PID]
+ 
+ 2. Linux kill 옵션
+ - -9: 프로세스 PID를 직접 지정하여 종료
+ - -l: 시그널로 사용할 수 있는 시그널들을 보여줌
+ 
+ 3. kill 명령어의 시그널 종류
+ | 신호이름 | SIGNUP | SIGHT | SIGKILL | SIGSEGV | SIGTERM | SIGCONT | SIGSTOP | SIGTSTP |
+ |-------|--------|---------|---------|---------|---------|----------|--------|
+ | 신호 | HUP | INT | KILL | SEGV | TERM | CONT | STOP |TSTP|
+ 
 
 
 
