@@ -94,15 +94,22 @@
  - kill [옵션] [PID]
  
  2. Linux kill 옵션
- - -9: 프로세스 PID를 직접 지정하여 종료
- - -l: 시그널로 사용할 수 있는 시그널들을 보여줌
+ - -9: 프로세스 PID를 직접 지정하여 종료SIGNUP | SIGHT | SIGKILL | SIGSEGV | SIGTERM | SIGCONT | SIGSTOP | SIGTSTP |
+ - -l: 시그널로 사용할 수 있는 시그널들을 보여줌 HUP | INT | KILL | SEGV | TERM | CONT | STOP | TSTP |
  
  3. kill 명령어의 시그널 종류
 
 
-| SIGNAL name | SIGNUP | SIGHT | SIGKILL | SIGSEGV | SIGTERM | SIGCONT | SIGSTOP | SIGTSTP |
-| ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| SIGNAL | HUP | INT | KILL | SEGV | TERM | CONT | STOP | TSTP |
+| SIGNAL name | SIGNAL |
+| ------ | ------ |
+| SIGNIP | HUP |
+| SIGHT | INT |
+| SIGKILL | KILL |
+| SIGSEGV | SEGV |
+| SIGTERM | TERM |
+| SIGCONT | CONT |
+| SIGSTOP | STOP |
+| SIGTSTP | TSTP |
  
 
 
