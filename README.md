@@ -81,6 +81,11 @@
 - jobs [옵션] [작업번호] 명령어로 사용
 2. Linux jobs 사용 후 상태
  <img width="570" alt="image" src="https://github.com/aswin0421/task_20233133/assets/133829776/05c59f47-2752-44eb-a319-33e5d6850d89">
+ 
+3. Linux jobs 옵션
+ <img width="573" alt="image" src="https://github.com/aswin0421/task_20233133/assets/133829776/67a90250-372f-4738-bd7c-a94182b13ab2">
+ 
+
 
 
 
