@@ -70,10 +70,18 @@
 
 4. ps 명령어 사용시 나타낼수 있는 항목
 <img width="498" alt="image" src="https://github.com/aswin0421/task_20233133/assets/133829776/f2d274e0-fcd4-4922-b7ff-f0235cf2fc75">
+
+
 ---
+
+
 ### Linux jobs 명령어
-1. Linux top이란?
+1. Linux jobs란?
 - 백그라운드에서 실행된 프로그램이나 작업 목록을 보여주는 명렁어
+- jobs [옵션] [작업번호] 명령어로 사용
+2. Linux jobs 사용 후 상태
+ <img width="570" alt="image" src="https://github.com/aswin0421/task_20233133/assets/133829776/05c59f47-2752-44eb-a319-33e5d6850d89">
+
 
 
 
