@@ -101,7 +101,7 @@
 
 
 | SIGNAL name | SIGNUP | SIGHT | SIGKILL | SIGSEGV | SIGTERM | SIGCONT | SIGSTOP | SIGTSTP |
-| ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | SIGNAL | HUP | INT | KILL | SEGV | TERM | CONT | STOP | TSTP |
  
 
