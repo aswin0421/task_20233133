@@ -1,7 +1,7 @@
 # Linux 명령어
 
 ### Linux top 명령어
-1. Linux top 이란?
+1. *Linux top* 이란?
 - 시스템의 상태를 전반적으로 가장 빠르게 파악 할 수 있는 명령어(cpu, memory, process)
 - 옵션을 주지않고 입력한다면 interval(3초) 간격으로 화면을 갱신하여 정보를 보여준다.
 - top 실행 전 옵션 (순간의 정보를 확인하는 -b, 실행 주기를 설정하는 -n)
@@ -31,7 +31,7 @@
 -다른 프로세스와 공유하고 있는 shred memory의 양
 ---
 ### Linux ps 명령어
-1. Linux ps란?
+1. *Linux ps*란?
 - 현재 실행중인 프로세스 목록과 상태를 보여준다
 - 정확한 옵션 사용이 중요하다(a와 -a의 옵션이 다른것처럼)
 - ps [option]의 사용
@@ -76,7 +76,7 @@
 
 
 ### Linux jobs 명령어
-1. Linux jobs란?
+1. *Linux jobs*란?
 - 백그라운드에서 실행된 프로그램이나 작업 목록을 보여주는 명렁어
 - jobs [옵션] [작업번호] 명령어로 사용
 2. Linux jobs 사용 후 상태
@@ -88,7 +88,7 @@
  ---
  
  ### Linux kill 명령어
- 1. Linux kill이란?
+ 1. *Linux kill*이란?
  - kill 명령어를 통해서 프로세스에 시그널을 보내서 제어하는 명령어
  - kill인 이유는 아무런 시그널이 없다면 종료하는 명렁어이기 때문이다
  - kill [옵션] [PID]
